@@ -1,6 +1,6 @@
 
 
-# RSSHOOL-CV
+# RSSCHOOL-CV
 
 Nikita Piatrushka
 
